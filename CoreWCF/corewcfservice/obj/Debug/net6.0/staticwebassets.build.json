@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lb54fQyIEKbopflmO9Jq375qFRuf5fWk/DuPwy7oxqY=",
+  "Source": "corewcfservice",
+  "BasePath": "_content/corewcfservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
